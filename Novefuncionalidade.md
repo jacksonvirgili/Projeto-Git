@@ -1,0 +1,1 @@
+Aqui será desenvolvida uma nova funcionalidade do projeto.
